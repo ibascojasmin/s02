@@ -20,7 +20,7 @@ let course1 = {
 
 let course2 = {
     "_id" : ObjectId("63108843b92ebab68a3b7ea6"),
-    "name" : "Isaiah",
+    "name" : "Jasmin",
     "description" : "Student",
     "price" : 10000,
     "slots" : 50,

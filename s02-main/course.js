@@ -5,13 +5,13 @@ let course1 = {
     "price" : 10000,
     "slots" : 50,
     "schedule" : "Monday",
-    "instructor" : "Mr. Habitan",
+    "instructor" : "Ms. Ibasco",
     "isActive" : "Yes",
     "enrollees" : [ 
         {
             "id" : "Enrollment1",
             "userId" : "63108322b92ebab68a3b7d07",
-            "userName(optional)" : "Ice",
+            "userName(optional)" : "Jas",
             "isPaid" : "yes",
             "dateEnrolled" : "09/01/2022"
         }
@@ -25,13 +25,13 @@ let course2 = {
     "price" : 10000,
     "slots" : 50,
     "schedule" : "Monday",
-    "instructor" : "Mr. Habitan",
+    "instructor" : "Ms. Ibasco",
     "isActive" : "Yes",
     "enrollees" : [ 
         {
             "id" : "Enrollment1",
             "userId" : "631087c3b92ebab68a3b7e7f",
-            "userName(optional)" : "Isaiah",
+            "userName(optional)" : "Jasmin",
             "isPaid" : "yes",
             "dateEnrolled" : "09/01/2022"
         }
